@@ -1,0 +1,87 @@
+2024-06-10 17:20:53 - Login bem-sucedido para o usuário: PH
+2024-06-10 17:20:54 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-08T22:01:07Z
+Tempo de atividade: 1 days, 22:23:06
+Permissões: Executando como usuário padrão
+
+2024-06-10 17:21:20 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-10 17:21:26 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-10 17:21:33 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-10 17:21:42 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-10 17:24:25 - Login bem-sucedido para o usuário: PH
+2024-06-10 17:24:27 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-08T22:01:07Z
+Tempo de atividade: 1 days, 22:26:38
+Permissões: Executando como usuário padrão
+
+2024-06-10 17:24:37 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-10 17:28:26 - Login bem-sucedido para o usuário: PH
+2024-06-10 17:28:27 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-08T22:01:07Z
+Tempo de atividade: 1 days, 22:30:39
+Permissões: Executando como usuário padrão
+
+2024-06-10 17:28:45 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-10 17:40:37 - Login bem-sucedido para o usuário: PH
+2024-06-10 17:40:39 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-08T22:01:07Z
+Tempo de atividade: 1 days, 22:42:50
+Permissões: Executando como usuário padrão
+
+2024-06-10 17:40:49 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-10 17:40:56 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-10 17:46:13 - Login bem-sucedido para o usuário: PH
+2024-06-10 17:46:15 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-08T22:01:07Z
+Tempo de atividade: 1 days, 22:48:26
+Permissões: Executando como usuário padrão
+
+2024-06-10 17:46:25 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-10 17:46:57 - Login bem-sucedido para o usuário: PH
+2024-06-10 17:46:58 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-08T22:01:07Z
+Tempo de atividade: 1 days, 22:49:10
+Permissões: Executando como usuário padrão
+
+2024-06-10 17:47:08 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-10 17:47:15 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-10 17:48:00 - Login bem-sucedido para o usuário: PH
+2024-06-10 17:48:01 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-08T22:01:07Z
+Tempo de atividade: 1 days, 22:50:13
+Permissões: Executando como usuário padrão
+
+2024-06-10 17:50:14 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-10 18:30:51 - Login bem-sucedido para o usuário: PH
+2024-06-10 18:30:52 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-10T21:14:34Z
+Tempo de atividade: 0 days, 00:19:51
+Permissões: Executando como usuário padrão
+
+2024-06-10 18:31:05 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-10 18:37:22 - Login bem-sucedido para o usuário: PH
+2024-06-10 18:37:24 - Dados do sistema recuperados: Sistema operacional: Windows
+Fabricante: Microsoft
+Arquitetura: 64bits
+Inicializado: 2024-06-10T21:14:34Z
+Tempo de atividade: 0 days, 00:26:22
+Permissões: Executando como usuário padrão
+
+2024-06-10 18:37:37 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
+2024-06-10 18:37:44 - Erro ao inserir dados no banco de dados: Hardware não encontrado: Armazenamento
