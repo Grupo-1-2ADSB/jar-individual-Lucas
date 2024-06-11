@@ -95,7 +95,7 @@ public class Main {
 
     private static void iniciarColetaDeDados(MonitoramentoMemoria memoria, MonitoramentoCpu cpu, Armazenamento armazenamento, MonitoramentoRede rede, ProcessosPC processos, ComponenteDAO componenteDAO, String nomeUsuario) throws SQLException {
         while (true) {
-            MemoryUsageFinisher.checkMemoryUsage();
+//            MemoryUsageFinisher.checkMemoryUsage();
             try {
                 Thread.sleep(3000);
                 Looca looca = new Looca();
